@@ -11,6 +11,7 @@
       
 2) Choose the activity which you intend to work on over the course of the program
 
-
+    - i'm...
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
+    - This week I helped...(link on message or screenshot)
